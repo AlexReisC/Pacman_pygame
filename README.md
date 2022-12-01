@@ -1,1 +1,1 @@
-# Pacman_pygame
+Jogo Pacman simples feito em Python
